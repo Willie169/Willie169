@@ -15,7 +15,7 @@ Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior h
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[![Willie169's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/Willie169/github-readme-stats)
+[![Willie169's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Willie169/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&exclude_repo=temp)](https://github.com/Willie169/github-readme-stats)
 
 I am the Chef Programing Officer of PythonIsSlowOrg, the former Assistant Professor of the Zhi-Chan School of the Chinese Classics Culture Education Association in Taiwan, and the former Chief Editor of the CSJ Literature Group.<br>
