@@ -23,7 +23,7 @@ One of the best project of mine is Android Non Root, which is a tutorial that ex
 
 Another work that I am pround of is [tw-gifted-k12-notes](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
 
-Some other works of mine are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [format-converter](https://github.com/Willie169/format-converter), and [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit).
+Some other projects of mine are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [termux-sh](https://github.com/Willie169/termux-sh), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), and [format-converter](https://github.com/Willie169/format-converter).
 
 I am also contributing to open-source projects such as [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4), and working with my friends in [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg) on projects such as [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy) and [PID](https://github.com/Willie169/PID).<br>
 The languages I used most often are Traditional Chinese (native), English, C/C++, Python, and LaTeX. I am also learning Japanese, Java, JavaScript, Rust, HTML, and CSS.
