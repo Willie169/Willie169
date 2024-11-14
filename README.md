@@ -2,7 +2,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080)
-![HTML](https://img.shields.io/badge/HTML-e54d26
+![HTML](https://img.shields.io/badge/HTML-e54d26)
 ![Android](https://img.shields.io/badge/Android-3DDC84)
 ![Linux](https://img.shields.io/badge/Linux-FCC624)
 ![Termux](https://img.shields.io/badge/Termux-000000)
