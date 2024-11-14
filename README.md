@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)
+![C](https://img.shields.io/badge/C-00599C)
 ![C++](https://img.shields.io/badge/C++-00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080)
