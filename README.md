@@ -13,6 +13,7 @@
 ![Box64](https://img.shields.io/badge/Box64-792936)
 ![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)
 ![TWSE](https://img.shields.io/badge/TWSE-4cb3df)
+![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-664620)
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.
 
