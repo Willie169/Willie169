@@ -12,7 +12,6 @@
 ![Antlr4](https://img.shields.io/badge/Antlr4-ed312f)
 ![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)
 ![TWSE](https://img.shields.io/badge/TWSE-4cb3df)
-![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-664620)
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan.
 
@@ -22,7 +21,7 @@ Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior h
 [![Willie169's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Willie169/github-readme-stats)
 [![Willie169's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/Willie169/github-readme-stats)
 
-I am the Chef Programing Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association](), and the former Chief Editor of the CSJ Literature Group.<br>
+I am the Chef Programing Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association](https://taclassics.org.tw), and the former Chief Editor of the CSJ Literature Group.<br>
 One of the best project of mine is Android Non Root, which is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access. It has three versions: [HTML](https://willie169.github.io), [Markdown](https://github.com/Willie169/Android-Non-Root), and [App](https://github.com/Willie169/Android-Non-Root-App).
 
 Another work that I am pround of is [tw-gifted-k12-notes](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
@@ -32,7 +31,7 @@ Some other projects I am working on are [mancala-android](https://github.com/Wil
 I am also contributing to open-source projects such as [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4), and working with my friends in [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg) on projects such as [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy) and [PID](https://github.com/Willie169/PID).<br>
 The languages I used most often are Traditional Chinese (native), English, C/C++, Python, and LaTeX. I am also learning Japanese, Java, JavaScript, Rust, HTML, and CSS.
 
-I am interested in and learning cross-language programming, machine learning, DSA, OS, investment management, and bot trading.
+I am interested in and learning cross-language programming, machine learning, DSA, OS, investment management, and bot trading. I mainly simulate trading stocks, futures, and other financial derivatives in [TWSE](https://www.twse.com.tw) and [TAIFEX](https://www.taifex.com.tw).
 
 My favorite subjects are computer science and information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy.
 
