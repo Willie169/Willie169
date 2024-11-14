@@ -10,7 +10,6 @@
 ![Tor](https://img.shields.io/badge/Tor-80449c)
 ![Pybind11](https://img.shields.io/badge/Pybind11-a49b6b)
 ![Antlr4](https://img.shields.io/badge/Antlr4-ed312f)
-![Box64](https://img.shields.io/badge/Box64-792936)
 ![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)
 ![TWSE](https://img.shields.io/badge/TWSE-4cb3df)
 ![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-664620)
