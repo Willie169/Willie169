@@ -15,8 +15,9 @@ Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior h
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[![Willie169's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Willie169/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/Willie169/github-readme-stats)
+[![Willie169's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Willie169/github-readme-stats)
+[![Willie169's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/Willie169/github-readme-stats)
+[![Willie169's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Willie169)](https://github.com/anuraghazra/github-readme-stats)
 
 I am the Chef Programing Officer of PythonIsSlowOrg, the former Assistant Professor of the Zhi-Chan School of the Chinese Classics Culture Education Association in Taiwan, and the former Chief Editor of the CSJ Literature Group.<br>
 One of the best project of mine is Android Non Root, which is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access. It has three versions: [HTML](https://willie169.github.io), [Markdown](https://github.com/Willie169/Android-Non-Root), and [App](https://github.com/Willie169/Android-Non-Root-App).
