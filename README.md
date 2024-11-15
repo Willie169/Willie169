@@ -48,3 +48,5 @@ If for whatever reason you want to send me money, here are where you may do so:
   5ytjeNsMqxUqCZGHghGWjZNZHFSebwfAkKXepExmqvTU
 - DOGE:
   DQUWv5vBhCLgoCCyNU2T4fh35ZhGi9cM4T
+- XMR:
+  48j6iQDeCSDeH46gw4dPJnMsa6TQzPa6WJaYbBS9JJucKqg9Mkt5EDe9nSkES3b8u7V6XJfL8neAPAtbEpmV2f4XC7bdbkv
