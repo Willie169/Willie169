@@ -27,7 +27,8 @@ Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior h
 [![Willie169's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Willie169/github-readme-stats)
 [![Willie169's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/Willie169/github-readme-stats)
 
-I am the Chef Programing Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan](https://taclassics.org.tw), and the former Chief Editor of the CSJ Literature Group.<br>
+I am the Chef Programing Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan (TACLASSICS)](https://taclassics.org.tw), and the former Chief Editor of the CSJ Literature Group.
+
 One of the best project of mine is Android Non Root, which is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access. It has three versions: [HTML](https://willie169.github.io), [Markdown](https://github.com/Willie169/Android-Non-Root), and [App](https://github.com/Willie169/Android-Non-Root-App).
 
 Another work that I am pround of is [tw-gifted-k12-notes](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
