@@ -1,6 +1,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)](https://github.com/Willie169)
 [![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
 [![Android-Non-Root](https://img.shields.io/badge/Android--Non--Root-007acc)](https://Willie169.github.io)
+[![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
+[![mancala-android](https://img.shields.io/badge/mancala--android-fafa0a)](https://f-droid.org/packages/com.willie.mancala)
+[![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)](https://webdiplomacy.net/userprofile.php?userID=222135)
 
 [![C](https://img.shields.io/badge/C-00599c)](https://www.iso.org/standard/82075.html)
 [![C++](https://img.shields.io/badge/C++-00599c)](https://isocpp.org)
@@ -14,7 +17,6 @@
 [![Pybind11](https://img.shields.io/badge/Pybind11-a49b6b)](https://github.com/pybind/pybind11)
 [![Antlr4](https://img.shields.io/badge/Antlr4-ed312f)](https://github.com/antlr/antlr4)
 [![TACLASSICS](https://img.shields.io/badge/TACLASSICS-161719)](https://taclassics.org.tw)
-[![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)](https://webdiplomacy.net/userprofile.php?userID=222135)
 [![TWSE](https://img.shields.io/badge/TWSE-1562a7)](https://www.twse.com.tw)
 [![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
 [![TAIFEX](https://img.shields.io/badge/TAIFEX-02499b)](https://www.taifex.com.tw)
