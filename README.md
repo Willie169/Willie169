@@ -18,7 +18,7 @@
 [![Termux](https://img.shields.io/badge/Termux-000000)](https://github.com/termux/termux-app)
 [![Tor](https://img.shields.io/badge/Tor-80449c)](https://www.torproject.org)
 [![Pybind11](https://img.shields.io/badge/Pybind11-a49b6b)](https://github.com/pybind/pybind11)
-[![Antlr4](https://img.shields.io/badge/Antlr4-ed312f)](https://github.com/antlr/antlr4)
+[![ANTLR4](https://img.shields.io/badge/ANTLR4-ed312f)](https://github.com/antlr/antlr4)
 [![TACLASSICS](https://img.shields.io/badge/TACLASSICS-161719)](https://taclassics.org.tw)
 [![TWSE](https://img.shields.io/badge/TWSE-1562a7)](https://www.twse.com.tw)
 [![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
