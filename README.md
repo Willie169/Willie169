@@ -4,6 +4,8 @@
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
 [![mancala-android](https://img.shields.io/badge/mancala--android-fafa0a)](https://f-droid.org/packages/com.willie.mancala)
 [![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)](https://webdiplomacy.net/userprofile.php?userID=222135)
+[![LaTeX-ToolKit](https://img.shields.io/badge/LaTeX--ToolKit-008080)](https://github.com/Willie169/LaTeX-ToolKit)
+[![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing) [![PID](https://img.shields.io/badge/PID-aaaeb9)](https://github.com/Willie169/PID)
 
 [![C](https://img.shields.io/badge/C-00599c)](https://www.iso.org/standard/82075.html)
 [![C++](https://img.shields.io/badge/C++-00599c)](https://isocpp.org)
@@ -35,9 +37,9 @@ One of the best project of mine is Android Non Root, which is a tutorial that ex
 
 Another work that I am pround of is [tw-gifted-k12-notes](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
 
-Some other projects I am working on are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [termux-sh](https://github.com/Willie169/termux-sh), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), [format-converter](https://github.com/Willie169/format-converter), [PID](https://github.com/Willie169/PID), etc.
+Some other projects I am working on are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [termux-sh](https://github.com/Willie169/termux-sh), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), [format-converter](https://github.com/Willie169/format-converter), [PID](https://github.com/Willie169/PID), [tw-options-and-futures-analysis-and-rnn-pricing](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing), [PID](https://github.com/Willie169/PID), etc.
 
-I am also contributing to open-source projects such as [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4), and working with my friends in [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg) on projects such as [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy) and [PID](https://github.com/Willie169/PID).
+I am also contributing to open-source projects such as [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4), and working with my friends in [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg) on projects such as [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).
 
 I am also working on investment management, especially bot trading about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly practice my skill by trading simulation in [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw).
 
