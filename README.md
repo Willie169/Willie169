@@ -1,4 +1,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)](https://github.com/Willie169)
+[![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
+[![Android-Non-Root](https://img.shields.io/badge/Android--Non--Root-0f0f10)](https://Willie169.github.io)
+
 [![C](https://img.shields.io/badge/C-00599c)](https://www.iso.org/standard/82075.html)
 [![C++](https://img.shields.io/badge/C++-00599c)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/Python-3776ab)](https://www.python.org)
