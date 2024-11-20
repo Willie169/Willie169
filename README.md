@@ -38,17 +38,15 @@ One of the best project of mine is Android Non Root, which has three versions: [
 
 Another work that I am pround of is [tw-gifted-k12-notes](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
 
-In addition, here's some of my research: [tw-options-and-futures-analysis-and-rnn-pricing](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing) and [PID](https://github.com/Willie169/PID) .
+In addition, here's some of my studies: [tw-options-and-futures-analysis-and-rnn-pricing](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing) and [PID](https://github.com/Willie169/PID) and my open-source contributions: [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4).
 
-Some other projects I am working on are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [termux-sh](https://github.com/Willie169/termux-sh), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), [format-converter](https://github.com/Willie169/format-converter), etc.
+Some other projects of mine are [mancala-android](https://github.com/Willie169/mancala-android), [mancala-cli](https://github.com/Willie169/mancala-cli), [termux-sh](https://github.com/Willie169/termux-sh), [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), and [format-converter](https://github.com/Willie169/format-converter). I am also working with my friends in [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg) on projects such as [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).
 
-I am also contributing to open-source projects such as [bython](https://github.com/Willie169/bython) and [grammars-v4](https://github.com/Willie169/grammars-v4), and working with my friends in [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg) on projects such as [pisDiplomacy](https://github.com/PythonIsSlowOrg/pisDiplomacy).
+I am also interested in investment management, especially bot trading about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly practice my skill by trading simulation of items on [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw).
 
-I am also working on investment management, especially bot trading about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly practice my skill by trading simulation in [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw).
+My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy. I am learning Japanese, Java, JavaScript, DSA, Android development, machine learning, and data science recently.
 
-My favorite subjects are computer science and information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy. I am also learning Japanese, Java, JavaScript, Rust, CSS, DSA, Android development, machine learning, data science, and more.
-
-I enjoy playing [webDiplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiangqi), chess, watching animes, reading books, writing literatures, and coding in my free time.
+I enjoy playing [webDiplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiang-qi), and chess, watching animes, reading, writing, and coding in my free time.
 
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
