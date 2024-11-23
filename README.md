@@ -26,8 +26,8 @@
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan. The languages I used most often are Traditional Chinese (native), English, C/C++, Python, LaTeX, Markdown, and HTML.
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Willie169)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Willie169's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=12&layout=compact&size_weight=0.5&count_weight=0.5" alt="Willie169's Top Languages" style="width: 100%;"></a>
