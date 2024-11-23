@@ -1,4 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)](https://github.com/Willie169)
+
 [![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
 [![Android-Non-Root](https://img.shields.io/badge/Android--Non--Root-007acc)](https://Willie169.github.io)
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
@@ -25,11 +26,9 @@
 
 Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior high school student and an amateur developer from Taiwan. The languages I used most often are Traditional Chinese (native), English, C/C++, Python, LaTeX, Markdown, and HTML.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Willie169)](https://git.io/streak-stats)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Willie169)](https://git.io/streak-stats)
 [![Willie169's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Willie169/github-readme-stats)
 [![Willie169's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/Willie169/github-readme-stats)
 
