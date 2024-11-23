@@ -29,8 +29,8 @@ Hi, I’m **@willie169**, or **Willie Shen**, a 17-year-old, 12th grade senior h
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Willie169)](https://git.io/streak-stats)
-[![Willie169's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Willie169/github-readme-stats)
-[![Willie169's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/Willie169/github-readme-stats)
+[![Willie169's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Willie169's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=15&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 I am the Chef Programing Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan (TACLASSICS)](https://taclassics.org.tw), and the former Chief Editor of the CSJ Literature Group.
 
