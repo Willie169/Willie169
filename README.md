@@ -25,7 +25,7 @@
 [![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
 [![TAIFEX](https://img.shields.io/badge/TAIFEX-02499b)](https://www.taifex.com.tw)
 
-Hi, I’m **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th grade senior high school student, and an amateur developer from Taiwan. The languages I used most often are Traditional Chinese (native), English, C/C++, Python, LaTeX, Markdown, and HTML.
+Hi! I’m **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th-grade senior high school student, and an amateur developer from Taiwan. The languages I used most often are Traditional Chinese (native), English, C/C++, Python, LaTeX, Markdown, and HTML.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
