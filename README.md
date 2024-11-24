@@ -11,6 +11,7 @@
 [![C](https://img.shields.io/badge/C-00599c)](https://www.iso.org/standard/82075.html)
 [![C++](https://img.shields.io/badge/C++-00599c)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/Python-3776ab)](https://www.python.org)
+[![Java](https://img.shields.io/badge/Java-f48c04)](https://www.java.com)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080)](https://www.latex-project.org)
 [![HTML](https://img.shields.io/badge/HTML-e54d26)](https://html.spec.whatwg.org)
 [![Android](https://img.shields.io/badge/Android-3ddc84)](https://www.android.com)
