@@ -7,9 +7,9 @@
 [![mancala-cli](https://img.shields.io/badge/mancala--cli-00599c)](https://github.com/Willie169/mancala-cli)
 [![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)](https://webdiplomacy.net/userprofile.php?userID=222135)
 [![LaTeX-ToolKit](https://img.shields.io/badge/LaTeX--ToolKit-008080)](https://github.com/Willie169/LaTeX-ToolKit) [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
-[![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 [![github-link-converter-downloader](https://img.shields.io/badge/github--link--converter--downloader-0d1218)](https://github.com/Willie169/github-link-converter-downloader)
 [![format-converter](https://img.shields.io/badge/format--converter-008080)](https://github.com/Willie169/format-converter)
+[![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 
 [![C](https://img.shields.io/badge/C-00599c)](https://www.iso.org/standard/82075.html)
 [![C++](https://img.shields.io/badge/C++-00599c)](https://isocpp.org)
