@@ -1,7 +1,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)](https://github.com/Willie169)
 
 [![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
-[![Android-Non-Root](https://img.shields.io/badge/Android--Non--Root-007acc)](https://Willie169.github.io)
+[![Android-Non-Root](https://img.shields.io/badge/Android--Non--Root-007acc)](https://Willie169.github.io/Android-Non-Root)
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
 [![mancala-android](https://img.shields.io/badge/mancala--android-fafa0a)](https://f-droid.org/packages/com.willie.mancala)
 [![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)](https://webdiplomacy.net/userprofile.php?userID=222135)
