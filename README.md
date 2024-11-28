@@ -5,7 +5,6 @@
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
 [![mancala-android](https://img.shields.io/badge/mancala--android-fafa0a)](https://f-droid.org/packages/com.willie.mancala)
 [![mancala-cli](https://img.shields.io/badge/mancala--cli-00599c)](https://github.com/Willie169/mancala-cli)
-[![webDiplomacy](https://img.shields.io/badge/webDiplomacy-35781d)](https://webdiplomacy.net/userprofile.php?userID=222135)
 [![LaTeX-ToolKit](https://img.shields.io/badge/LaTeX--ToolKit-008080)](https://github.com/Willie169/LaTeX-ToolKit) [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
 [![github-link-converter-downloader](https://img.shields.io/badge/github--link--converter--downloader-0d1218)](https://github.com/Willie169/github-link-converter-downloader)
 [![format-converter](https://img.shields.io/badge/format--converter-008080)](https://github.com/Willie169/format-converter)
