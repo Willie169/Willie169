@@ -50,7 +50,7 @@ Later comes the board game Mancala I made for Android with GUI: [mancala-android
 
 My work regarding formatting and mark-up are [LaTeX-ToolKit](https://github.com/Willie169/LaTeX-ToolKit), a collection of LaTeX templates, [github-link-converter-downloader](https://github.com/Willie169/github-link-converter-downloader) and [format-converter](https://github.com/Willie169/format-converter), JavaScript for format converting.
 
-Lastly, here's some of my studies: [tw-options-and-futures-analysis-and-rnn-pricing](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing), and [PID](https://github.com/Willie169/PID).
+Lastly, here's some of my studies: [tw-options-and-futures-analysis-and-rnn-pricing](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing), [PID](https://github.com/Willie169/PID), [Chi aVirus](https://github.com/Willie169/ChinaVirus), and [rule110](https://github.com/Willie169/rule110).
 
 My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy. I am interested in investment management, especially bot trading about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly practice my skill by trading simulation of items on [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw). I am also learning Japanese, Java, JavaScript, DSA, Android development, machine learning, and data science recently.
 
