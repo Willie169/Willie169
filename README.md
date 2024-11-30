@@ -44,7 +44,7 @@ Another work I am proud of is [tw-gifted-k12-notes](https://github.com/Willie169
 
 Thirdly, there is [termux-sh](https://github.com/Willie169/termux-sh). It contains setup Shell scripts and related files for automating the configuration of Termux, a terminal emulator for Android. The scripts facilitate the installation of essential tools, environment configurations, proot distributions, QEMU virtual machines, and related setups. I am still working on it to make it more modular and customizable.
 
-Also, I've contributed to [grammars-v4](https://github.com/antlr/grammars-v4) [about Python 3.12 grammar](https://github.com/antlr/grammars-v4/pull/4280), and I plan to revive [bython](https://github.com/mathialo/bython) to with ANTLR4.
+I've made some contributions to open source projects such as [grammars-v4](https://github.com/antlr/grammars-v4) and [sshx](https://github.com/Willie169/sshx). The one I like the most is [the contribution about Python 3.12 grammar](https://github.com/antlr/grammars-v4/pull/4280). Also I plan to revive [bython](https://github.com/mathialo/bython) with ANTLR4.
 
 Later comes the board game Mancala I made for Android with GUI: [mancala-android](https://github.com/Willie169/mancala-android), and for CLI written in C++: [mancala-cli](https://github.com/Willie169/mancala-cli), . 
 
