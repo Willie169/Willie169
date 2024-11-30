@@ -38,7 +38,7 @@ Hi! I’m **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th-
 
 I am the Chef Programing Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan (TACLASSICS)](https://taclassics.org.tw), and the former Chief Editor of the CSJ Literature Group.
 
-One of the best project of mine is Android Non Root, which has three versions: [HTML](https://willie169.github.io), [Markdown](https://github.com/Willie169/Android-Non-Root), and [App](https://github.com/Willie169/Android-Non-Root-App). It is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access.
+One of the best project of mine is Android Non Root, which has three versions: [HTML](https://willie169.github.io/Android-Non-Root), [Markdown](https://github.com/Willie169/Android-Non-Root), and [App](https://github.com/Willie169/Android-Non-Root-App). It is a tutorial that explore a range of powerful, open-source tools such as Termux, Shizuku, Tor, TrackerControl, InviZible Pro, QEMU, Andronix, and OpenSSL to enhance your Android device’s functionality, security, privacy, and customization without the need for root access.
 
 Another work that I am pround of is [tw-gifted-k12-notes](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
 
