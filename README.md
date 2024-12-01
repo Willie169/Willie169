@@ -1,6 +1,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)](https://github.com/Willie169)
 
-[![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
+[![Willie169.github.io](https://img.shields.io/badge/Willie169.github.io-654520)](https://Willie169.github.io)
 [![Android-Non-Root](https://img.shields.io/badge/Android--Non--Root-007acc)](https://Willie169.github.io/Android-Non-Root)
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
 [![mancala-android](https://img.shields.io/badge/mancala--android-fafa0a)](https://f-droid.org/packages/com.willie.mancala)
@@ -23,6 +23,7 @@
 [![Tor](https://img.shields.io/badge/Tor-80449c)](https://www.torproject.org)
 [![Pybind11](https://img.shields.io/badge/Pybind11-a49b6b)](https://github.com/pybind/pybind11)
 [![ANTLR4](https://img.shields.io/badge/ANTLR4-ed312f)](https://github.com/antlr/antlr4)
+[![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
 [![TACLASSICS](https://img.shields.io/badge/TACLASSICS-161719)](https://taclassics.org.tw)
 [![TWSE](https://img.shields.io/badge/TWSE-1562a7)](https://www.twse.com.tw)
 [![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
@@ -42,9 +43,9 @@ The languages I use most often are Chinese (Taiwan), English, C, C++, Python, Sh
 
 One of my best projects is [**Android Non Root**](https://github.com/Willie169/Android-Non-Root), which has three versions: 
 
-* [HTML](https://willie169.github.io/Android-Non-Root).
-* [Markdown](https://github.com/Willie169/Android-Non-Root).
-* [App](https://github.com/Willie169/Android-Non-Root-App).
+* [**HTML**](https://willie169.github.io/Android-Non-Root).
+* [**Markdown**](https://github.com/Willie169/Android-Non-Root).
+* [**App**](https://github.com/Willie169/Android-Non-Root-App).
 
 It is a tutorial that explores a range of powerful, open-source tools such as [Termux](https://github.com/termux/termux-app), [Shizuku](https://github.com/RikkaApps/Shizuku), [Tor](https://www.torproject.org), [TrackerControl](https://github.com/TrackerControl/tracker-control-android), [InviZible Pro](https://github.com/Gedsh/InviZible), [QEMU](https://github.com/qemu/qemu), and [Andronix](https://github.com/AndronixApp/AndronixOrigin) to enhance your Android device’s functionality, security, privacy, and customization without the need for root access.
 
@@ -72,9 +73,9 @@ Lastly, here's some of my studies:
 * [**ChinaVirus**](https://github.com/Willie169/ChinaVirus).
 * [**rule110**](https://github.com/Willie169/rule110).
 
-My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy. I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw).
+My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy. I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [**TWSE**](https://www.twse.com.tw), [**TPEx**](https://www.tpex.org.tw), and [**TAIFEX**](https://www.taifex.com.tw).
 
-I enjoy playing [webDiplomacy](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiang-qi), and chess, watching anime, reading, writing, and coding in my free time.
+I enjoy playing [**webDiplomacy**](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiang-qi), and chess, watching anime, reading, writing, and coding in my free time.
 
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
