@@ -69,7 +69,7 @@ Lastly, here's some of my studies:
 
 * [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing).
 * [**PID**](https://github.com/Willie169/PID).
-* [**Chi aVirus**](https://github.com/Willie169/ChinaVirus).
+* [**ChinaVirus**](https://github.com/Willie169/ChinaVirus).
 * [**rule110**](https://github.com/Willie169/rule110).
 
 My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy. I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw).
