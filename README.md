@@ -28,15 +28,13 @@
 [![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
 [![TAIFEX](https://img.shields.io/badge/TAIFEX-02499b)](https://www.taifex.com.tw)
 
-Hi! I’m **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th-grade senior high school student, and an amateur developer from Taiwan. The languages I use most often are Traditional Chinese (native), English, C/C++, Python, LaTeX, Markdown, and HTML.
+Hi! I am **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th-grade senior high school student in Taiwan. I am the Chef Programming Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan (TACLASSICS)](https://taclassics.org.tw), and the former Chief Editor of the CSJ Literature Group. The languages I use most often are Chinese (Taiwan), English, C/C++, Python, LaTeX, Markdown, and HTML.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Willie169)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Willie169's GitHub Stats" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=LICENSES" alt="Willie169's Top Languages" style="width: 100%; height: 200;"></a>
-
-I am the Chef Programming Officer of [PythonIsSlowOrg](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan (TACLASSICS)](https://taclassics.org.tw), and the former Chief Editor of the CSJ Literature Group.
 
 One of my best projects is Android Non Root, which has three versions: [HTML](https://willie169.github.io/Android-Non-Root), [Markdown](https://github.com/Willie169/Android-Non-Root), and [App](https://github.com/Willie169/Android-Non-Root-App). It is a tutorial that explores a range of powerful, open-source tools such as [Termux](https://github.com/termux/termux-app), [Shizuku](https://github.com/RikkaApps/Shizuku), [Tor](https://www.torproject.org), [TrackerControl](https://github.com/TrackerControl/tracker-control-android), [InviZible Pro](https://github.com/Gedsh/InviZible), [QEMU](https://github.com/qemu/qemu), and [Andronix](https://github.com/AndronixApp/AndronixOrigin) to enhance your Android device’s functionality, security, privacy, and customization without the need for root access.
 
