@@ -30,7 +30,7 @@
 [![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
 [![TAIFEX](https://img.shields.io/badge/TAIFEX-02499b)](https://www.taifex.com.tw)
 
-Hi! I am **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th-grade senior high school student in Taiwan.
+Hello world! I am **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th-grade senior high school student in Taiwan.
 
 I am the Chef Programming Officer of [**PythonIsSlowOrg**](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [**Chinese Classics Culture Education Association of Taiwan (TACLASSICS)**](https://taclassics.org.tw), and the former Chief Editor of the **CSJ Literature Group**.
 
