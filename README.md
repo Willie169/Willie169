@@ -34,7 +34,7 @@ Hello world! I am **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-ol
 
 I am the Chef Programming Officer of [**PythonIsSlowOrg**](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [**Chinese Classics Culture Education Association of Taiwan (TACLASSICS)**](https://taclassics.org.tw), and the former Chief Editor of the **CSJ Literature Group**.
 
-The languages I use most often are Taiwan Traditional Chinese (native, main), English (main), C/C++ (main), JavaScript, Java, Python, Shell, LaTaX (main), and HTML.
+The languages I use most often are **Traditional Chinese (Taiwan)** (native, main), **English** (main), **C/C++** (main), **JavaScript**, **Java**, **Python**, **Shell**, **LaTaX** (main), and **HTML**.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
