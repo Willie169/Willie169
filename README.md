@@ -71,7 +71,7 @@ Lastly, here's some of my studies:
 
 * [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing).
 * [**PID**](https://github.com/Willie169/PID).
-* [voice-input-parser](https://github.com/Willie169/voice-input-parser).
+* [**voice-input-parser**](https://github.com/Willie169/voice-input-parser).
 * [**ChinaVirus**](https://github.com/Willie169/ChinaVirus).
 * [**rule110**](https://github.com/Willie169/rule110).
 
