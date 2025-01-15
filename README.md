@@ -11,6 +11,12 @@
 [![format-converter](https://img.shields.io/badge/format--converter-008080)](https://github.com/Willie169/format-converter)
 [![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 
+[![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
+[![TACLASSICS](https://img.shields.io/badge/TACLASSICS-161719)](https://taclassics.org.tw)
+[![TWSE](https://img.shields.io/badge/TWSE-1562a7)](https://www.twse.com.tw)
+[![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
+[![TAIFEX](https://img.shields.io/badge/TAIFEX-02499b)](https://www.taifex.com.tw)
+
 [![C](https://img.shields.io/badge/C-00599c)](https://www.iso.org/standard/82075.html)
 [![C++](https://img.shields.io/badge/C++-00599c)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/Python-3776ab)](https://www.python.org)
@@ -24,11 +30,6 @@
 [![Tor](https://img.shields.io/badge/Tor-80449c)](https://www.torproject.org)
 [![Pybind11](https://img.shields.io/badge/Pybind11-a49b6b)](https://github.com/pybind/pybind11)
 [![ANTLR4](https://img.shields.io/badge/ANTLR4-ed312f)](https://github.com/antlr/antlr4)
-[![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
-[![TACLASSICS](https://img.shields.io/badge/TACLASSICS-161719)](https://taclassics.org.tw)
-[![TWSE](https://img.shields.io/badge/TWSE-1562a7)](https://www.twse.com.tw)
-[![TPEx](https://img.shields.io/badge/TPEx-b68946)](https://www.tpex.org.tw)
-[![TAIFEX](https://img.shields.io/badge/TAIFEX-02499b)](https://www.taifex.com.tw)
 
 Hello world! I am **Willie169**, **Willie Shen**, or **沈威宇**, a 17-year-old, 12th-grade senior high school student in Taiwan.
 
