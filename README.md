@@ -43,39 +43,27 @@ The languages I use most often are **Traditional Chinese** (native, main), **Eng
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Willie169's GitHub Stats" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=LICENSES" alt="Willie169's Top Languages" style="width: 100%; height: 200;"></a>
 
-One of my best projects is [**Android Non Root**](https://github.com/Willie169/Android-Non-Root), which has three versions: 
+One of my best projects is [**Android Non Root**](https://github.com/Willie169/Android-Non-Root), which has three versions [**HTML**](https://willie169.github.io/Android-Non-Root), [**Markdown**](https://github.com/Willie169/Android-Non-Root), and [**App**](https://github.com/Willie169/Android-Non-Root-App). It is a tutorial that explores a range of powerful, open-source tools such as [**Termux**](https://github.com/termux/termux-app), [**Shizuku**](https://github.com/RikkaApps/Shizuku), [**Tor**](https://www.torproject.org), [**TrackerControl**](https://github.com/TrackerControl/tracker-control-android), [**InviZible Pro**](https://github.com/Gedsh/InviZible), [**QEMU**](https://github.com/qemu/qemu), and [**Andronix**](https://github.com/AndronixApp/AndronixOrigin) to enhance your Android device’s functionality, security, privacy, and customization without the need for root access.
 
-* [**HTML**](https://willie169.github.io/Android-Non-Root).
-* [**Markdown**](https://github.com/Willie169/Android-Non-Root).
-* [**App**](https://github.com/Willie169/Android-Non-Root-App).
+Secondly, my [**termux-sh**](https://github.com/Willie169/termux-sh) project contains setup Shell scripts and related files for automating the configuration of Termux, a terminal emulator for Android. The scripts facilitate the installation of essential tools, environment configurations, proot distributions, QEMU virtual machines, and related setups. I am still working on it to make it more modular and customizable.
 
-It is a tutorial that explores a range of powerful, open-source tools such as [Termux](https://github.com/termux/termux-app), [Shizuku](https://github.com/RikkaApps/Shizuku), [Tor](https://www.torproject.org), [TrackerControl](https://github.com/TrackerControl/tracker-control-android), [InviZible Pro](https://github.com/Gedsh/InviZible), [QEMU](https://github.com/qemu/qemu), and [Andronix](https://github.com/AndronixApp/AndronixOrigin) to enhance your Android device’s functionality, security, privacy, and customization without the need for root access.
+Also, I've made [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit), containing a LaTeX template for XeTeX and LuaTeX with custom commands, fonts, and CJK support, and other utilities.
 
-Another work I am proud of is [**tw-gifted-k12-notes**](https://github.com/Willie169/tw-gifted-k12-notes), which is notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF on GitHub.
+Some other studies I am proud of are:
 
-Thirdly, my [**termux-sh**](https://github.com/Willie169/termux-sh) project contains setup Shell scripts and related files for automating the configuration of Termux, a terminal emulator for Android. The scripts facilitate the installation of essential tools, environment configurations, proot distributions, QEMU virtual machines, and related setups. I am still working on it to make it more modular and customizable.
+* [**tw-gifted-k12-notes**](https://github.com/Willie169/tw-gifted-k12-notes): notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
+* [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing): a study on the deep learning pricing model of Taiwan's issue-weighted stock price index, its futures and options, and other economic and interest rate data.
+* [**PID**](https://github.com/Willie169/PID): an advanced PID controller designed to regulate the speed of an auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice.
 
-I've made some contributions to open source projects such as [**grammars-v4**](https://github.com/antlr/grammars-v4) and [**sshx**](https://github.com/suutaku/sshx). Also, I plan to revive [**bython**](https://github.com/mathialo/bython) with ANTLR4, inspired [my contribution about Python 3.12 ANTLR4 grammar](https://github.com/antlr/grammars-v4/pull/4280).
+Later comes the board game **Mancala**, I've made an Android app version: [**mancala-android**](https://github.com/Willie169/mancala-android), and a CLI version: [**mancala-cli**](https://github.com/Willie169/mancala-cli).
 
-Later comes the board game **Mancala** I made:
+Besides, I've made some contributions to open source projects such as [**grammars-v4**](https://github.com/antlr/grammars-v4), [**sshx**](https://github.com/suutaku/sshx), and [**MCP-Bridge**](https://github.com/SecretiveShell/MCP-Bridge).
 
-* Android app: [**mancala-android**](https://github.com/Willie169/mancala-android).
-* CLI: [**mancala-cli**](https://github.com/Willie169/mancala-cli).
+Lastly, my other works include [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader), JavaScripts for GitHub link format converting and downloading files on GitHub, [**format-converter**](https://github.com/Willie169/format-converter), JavaScripts for mark-up language converting and more, [**termuxrunner**](https://github.com/Willie169/termuxrunner), an Android app that serves as an alternative frontend for Termux that ignores output for simplicity, etc.
 
-My works regarding formatting and mark-up include:
+My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, and mathematics. 
 
-* [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit): a collection of LaTeX templates.
-* [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader): JavaScript for GitHub link format converting and downloading files on GitHub.
-* [**format-converter**](https://github.com/Willie169/format-converter): JavaScripts for mark-up language converting and more.
-
-Lastly, here's some of my studies:
-
-* [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing).
-* [**PID**](https://github.com/Willie169/PID).
-* [**voice-input-parser**](https://github.com/Willie169/voice-input-parser).
-* [**ChinaVirus**](https://github.com/Willie169/ChinaVirus).
-
-My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, mathematics, and philosophy. I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [**TWSE**](https://www.twse.com.tw), [**TPEx**](https://www.tpex.org.tw), and [**TAIFEX**](https://www.taifex.com.tw).
+I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [**TWSE**](https://www.twse.com.tw), [**TPEx**](https://www.tpex.org.tw), and [**TAIFEX**](https://www.taifex.com.tw).
 
 I enjoy playing [**webDiplomacy**](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiang-qi), and chess, watching anime, reading, writing, and coding in my free time.
 
