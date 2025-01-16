@@ -49,7 +49,7 @@ Secondly, my [**termux-sh**](https://github.com/Willie169/termux-sh) project con
 
 Also, I've made [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit), containing a LaTeX template for XeTeX and LuaTeX with custom commands, fonts, and CJK support, and other utilities.
 
-Some other studies I am proud of are:
+Some studies I am proud of are:
 
 * [**tw-gifted-k12-notes**](https://github.com/Willie169/tw-gifted-k12-notes): notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
 * [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing): a study on the deep learning pricing model of Taiwan's issue-weighted stock price index, its futures and options, and other economic and interest rate data.
@@ -59,7 +59,11 @@ Later comes the board game **Mancala**, I've made an Android app version: [**man
 
 Besides, I've made some contributions to open source projects such as [**grammars-v4**](https://github.com/antlr/grammars-v4), [**sshx**](https://github.com/suutaku/sshx), and [**MCP-Bridge**](https://github.com/SecretiveShell/MCP-Bridge).
 
-Lastly, my other works include [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader), JavaScripts for GitHub link format converting and downloading files on GitHub, [**format-converter**](https://github.com/Willie169/format-converter), JavaScripts for mark-up language converting and more, [**termuxrunner**](https://github.com/Willie169/termuxrunner), an Android app that serves as an alternative frontend for Termux that ignores output for simplicity, etc.
+Lastly, some of my other works include:
+
+* [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader): JavaScripts for GitHub link format converting and downloading files on GitHub.
+* [**format-converter**](https://github.com/Willie169/format-converter): JavaScripts for mark-up language converting and more.
+* [**termuxrunner**](https://github.com/Willie169/termuxrunner): an Android app that serves as an alternative frontend for Termux that ignores output for simplicity.
 
 My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, and mathematics. 
 
