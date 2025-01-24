@@ -61,7 +61,8 @@ Besides, I've made some contributions to open source projects such as [**grammar
 
 Lastly, some of my other works include:
 
-* [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader): JavaScripts for GitHub link format converting and downloading files on GitHub.
+* [MarkdownToLatexConverter](https://github.com/Willie169/MarkdownToLatexConverter): a NPM package converting Markdown to LaTeX.
+* [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader): a NPM package and a site for GitHub link format converting and downloading files on GitHub.
 * [**format-converter**](https://github.com/Willie169/format-converter): JavaScripts for mark-up language converting and more.
 * [**termuxrunner**](https://github.com/Willie169/termuxrunner): an Android app that serves as an alternative frontend for Termux that ignores output for simplicity.
 
