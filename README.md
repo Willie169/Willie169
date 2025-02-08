@@ -53,7 +53,7 @@ Some studies I am proud of are:
 
 * [**tw-gifted-k12-notes**](https://github.com/Willie169/tw-gifted-k12-notes): notes on Taiwan's senior high school curriculum subjects and its extended fields made with LaTeX and available in PDF.
 * [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing): a study on the deep learning pricing model of Taiwan's issue-weighted stock price index, its futures and options, and other economic and interest rate data.
-* [**PID**](https://github.com/Willie169/PID): an advanced PID controller designed to regulate the speed of an auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice.
+* [**PID**](https://github.com/Willie169/PID) and its [site](https://Willie169.github.io/PID): an advanced PID controller designed to regulate the speed of an Arduino auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice. The content of its site is outdated and stop being updated. Please refer to the PDFs in it for latest updates.
 
 Later comes the board game **Mancala**, I've made an Android app version: [**mancala-android**](https://github.com/Willie169/mancala-android), and a CLI version: [**mancala-cli**](https://github.com/Willie169/mancala-cli).
 
@@ -62,7 +62,7 @@ Besides, I've made some contributions to open source projects such as [**grammar
 Lastly, some of my other works include:
 
 * [**MarkdownToLatexConverter**](https://github.com/Willie169/MarkdownToLatexConverter): a NPM package converting Markdown to LaTeX.
-* [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader): a NPM package and a site for GitHub link format converting and downloading files on GitHub.
+* [**github-link-converter-downloader**](https://github.com/Willie169/github-link-converter-downloader) and its [site](https://Willie169.github.io/github-link-converter-downloader): a NPM package and a site for GitHub link format converting and downloading files on GitHub.
 * [**format-converter**](https://github.com/Willie169/format-converter): JavaScripts for mark-up language converting and more.
 * [**termuxrunner**](https://github.com/Willie169/termuxrunner): an Android app that serves as an alternative frontend for Termux that ignores output for simplicity.
 
