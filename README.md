@@ -35,7 +35,7 @@ Hello world! I am **Willie169**, **Willie Shen**, or **沈威宇**, a 18-year-ol
 
 I am the Chef Programming Officer of [**PythonIsSlowOrg**](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [**Chinese Classics Culture Education Association of Taiwan (TACLASSICS)**](https://taclassics.org.tw), and the former Chief Editor of the **CSJ Literature Group**.
 
-The languages I use most often are **Traditional Chinese** (native, main), **English** (main), **C/C++** (main), **JavaScript/Node.js**, **Java**, **Python**, **Shell**, **LaTaX** (main), and **HTML**.
+The languages I use most often are **Traditional Chinese** (native, main), **English** (main), **C/C++** (main), **JavaScript**, **Java**, **Python**, **Shell**, **LaTaX** (main), and **HTML**.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
@@ -68,9 +68,9 @@ Lastly, some of my other works include:
 
 My favorite subjects are computer science, information engineering, electrical engineering, economics, finance, physics, and mathematics. 
 
-I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [**TWSE**](https://www.twse.com.tw), [**TPEx**](https://www.tpex.org.tw), and [**TAIFEX**](https://www.taifex.com.tw).
+I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw).
 
-I enjoy playing [**webDiplomacy**](https://webdiplomacy.net/userprofile.php?userID=222135), Chinese chess (Xiang-qi), and chess, watching anime, reading, writing, and coding in my free time.
+I enjoy playing [webDiplomacy](https://github.com/kestasjk/webDiplomacy), Chinese chess (Xiang-qi), and chess, watching anime, reading, writing, and coding in my free time.
 
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
