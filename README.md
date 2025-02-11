@@ -47,7 +47,10 @@ One of my best projects is [**Android Non Root**](https://github.com/Willie169/A
 
 Secondly, my [**termux-sh**](https://github.com/Willie169/termux-sh) project contains setup Shell scripts and related files for automating the configuration of Termux, a terminal emulator for Android. The scripts facilitate the installation of essential tools, environment configurations, proot distributions, QEMU virtual machines, and related setups. I am still working on it to make it more modular and customizable.
 
-Also, I've made [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit), containing a LaTeX template for XeTeX and LuaTeX with custom commands, fonts, and CJK support, and other utilities.
+Also, I've made some contributions about LaTeX:
+
+* [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit): a LaTeX template for XeTeX and LuaTeX with CJK support, fonts support, custom commands and patches, and other utilities.
+* [**physics-patch**](https://github.com/Willie169/physics-patch): a LaTeX package that provides patches for physics package.
 
 Some studies I am proud of are:
 
