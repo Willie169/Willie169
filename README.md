@@ -49,8 +49,8 @@ Secondly, my [**termux-sh**](https://github.com/Willie169/termux-sh) project con
 
 Also, I've made some contributions about LaTeX:
 
-* [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit): a LaTeX template for XeTeX and LuaTeX with CJK support, fonts support, custom commands and patches, and other utilities.
-* [**physics-patch**](https://github.com/Willie169/physics-patch): a LaTeX package that provides patches for physics package.
+* [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit): a LaTeX template for XeTeX and LuaTeX with CJK support, fonts settings, custom commands, shorthands, and patches, and other utilities.
+* [**physics-patch**](https://github.com/Willie169/physics-patch): a LaTeX package that provides patches for [`physics`](https://ctan.org/pkg/physics) package.
 
 Some studies I am proud of are:
 
