@@ -60,7 +60,7 @@ My favorite subjects are computer science, information engineering, electrical e
 
 I am interested in algorithmic investment management about stocks, futures, foreign exchange, cryptocurrency, and financial derivatives. I now mostly use recursive neural network and reinforcement learning and practice by trading simulation of items on [TWSE](https://www.twse.com.tw), [TPEx](https://www.tpex.org.tw), and [TAIFEX](https://www.taifex.com.tw).
 
-I enjoy playing [webDiplomacy](https://github.com/kestasjk/webDiplomacy), Chinese chess (Xiang-qi), and chess, watching anime, reading, writing, and coding in my free time.
+I enjoy playing [**webDiplomacy**](https://github.com/kestasjk/webDiplomacy), Chinese chess (Xiang-qi), and chess, watching anime, reading, writing, and coding in my free time.
 
 If for whatever reason you want to send me money, here are where you may do so:
 - BTC:
