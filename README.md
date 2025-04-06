@@ -20,11 +20,11 @@
 
 Hello world! I am **Willie169**, **Willie Shen**, or **沈威宇**, a 18-year-old, 12th-grade senior high school student in Taiwan.
 
-I am the Chef Programming Officer of [**PythonIsSlowOrg**](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [**Chinese Classics Culture Education Association of Taiwan (TACLASSICS)**](https://taclassics.org.tw), and the former Chief Editor of the **CSJ Literature Group**.
+I am the Chef Programming Officer of [**PythonIsSlowOrg**](https://github.com/PythonIsSlowOrg), the former Assistant Professor of the Zhi-Chan School of the [**Chinese Classics Culture Education Association of Taiwan (TACLASSICS)**](https://taclassics.org.tw), and the former Chief Editor of the **CSJ Literature Group**. This is my [**Bluesky**](https://bsky.app/profile/willie169.bsky.social).
 
 The languages I use most often are **Traditional Chinese** (native, main), **English** (main), **C/C++** (main), **JavaScript**, **Java**, **Python**, **Shell**, **LaTaX** (main), and **HTML**.
 
-<a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a>
+<a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snhttps://bsky.app/profile/willie169.bsky.socialake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=Willie169" alt="GitHub Streak" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Willie169's GitHub Stats" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=LICENSES" alt="Willie169's Top Languages" style="width: 100%; height: 200;"></a>
