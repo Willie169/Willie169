@@ -65,7 +65,7 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 ### Termux and Linux Tools
 
 * [**termux-sh**](https://github.com/Willie169/termux-sh): Scripts for [Termux](https://github.com/termux/termux-app) including setup automation, shortcuts, installations and configurations of development tools and emulation environments such as proot, proot-distro, QEMU system emulation, box64, and more.
-* [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts for setting up Ubuntu with development and remote control tools, VNC, GPU acceleration (NVIDIA), and more.
+* [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts and instructions for setting up Ubuntu with development and remote control tools, VNC, NVIDIA GPU, Steam, and more.
 
 ### Educational and Research Work
 
