@@ -45,7 +45,7 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=Willie169" alt="GitHub Streak" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Willie169's GitHub Stats" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=LICENSES" alt="Willie169's Top Languages" style="width: 100%; height: 200;"></a>
-<a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snhttps://bsky.app/profile/willie169.bsky.socialake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a>
+<!-- <a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snhttps://bsky.app/profile/willie169.bsky.socialake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a> -->
 
 ## Featured Projects
 
@@ -65,7 +65,7 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 ### Termux and Linux Tools
 
 * [**termux-sh**](https://github.com/Willie169/termux-sh): Scripts for [Termux](https://github.com/termux/termux-app) including setup automation, shortcuts, installations and configurations of development tools and emulation environments such as proot, proot-distro, QEMU system emulation, box64, and more.
-* [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts and instructions for setting up Ubuntu with development and remote control tools, VNC, NVIDIA GPU, Steam, and more.
+* [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts and instructions for setting up Ubuntu with development and remote control tools, VNC, NVIDIA GPU, Wine, Steam, and more.
 
 ### Educational and Research Work
 
