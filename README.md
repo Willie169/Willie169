@@ -33,8 +33,8 @@ I'm **Willie169**, also known as **Willie Shen** or **沈威宇**, an 18-year-ol
 * **Fifth Place** of **Traditional Chinese Phonetics and Characters Competition, Banqiao and Tucheng District, New Taipei City** held by **New Taipei City Government**.
 * **Champion** of **School Traditional Chinese Phonetics and Characters Competition** of **New Taipei Municipal Chongqing Elementary School**.
 * **Fourth Place** of **School Traditional Chinese Phonetics and Characters Competition** of **Taipei Municipal Chien Kuo High School**.
-* **First Place** of **Grade Rank** of **New Taipei Municipal Chongqing Junior High School**.
-* **Fourteenth Place** of **Grade Rank** of **Taipei Municipal Chien Kuo High School**.
+* **First Place** of grade rank of **New Taipei Municipal Chongqing Junior High School**.
+* **Third Place** of grade rank of **the Second Group of Taipei Municipal Chien Kuo High School**.
 
 ### Languages I Use
 
