@@ -39,7 +39,8 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 * Student of Shizhong Club Zheng's Tai Chi Chuan Course. 時中學社鄭子太極拳課程學員。
 * National Champion of International Cup Mathematics Test and Competition held by International Math Teaching Association in Taiwan. 中華國際數學教育協會舉辦之國際盃數學能力檢測暨競賽全國第一名。
 * Premium of Zhuoyue Cup National Mathematics Competition held by Kang Hsuan Educational Publishing Corp. 康軒文教事業舉辦之卓越盃全國數學競賽特優。
-* Champion of Taiwan Securities and Futures Paper Trading Competition held by CKHS Investment and Finance Club 18th. 建國中學投資理財社第18屆舉辦之臺灣證券及期貨模擬交易比賽第一名.
+* Champion of Taiwan Securities and Futures Paper Trading Competition held by CKHS Investment and Finance Club 18th. 建國中學投資理財社第18屆舉辦之臺灣證券及期貨模擬交易比賽第一名。
+* Committee Member of CKHS Investment and Finance Club 19th. 建國中學投資理財社第19屆幹部。
 * Fifth Place of National Language Contest Phonetics and Characters, Banqiao and Tucheng District, New Taipei City. 新北市板土區全國語文競賽字音字形第五名。
 * Champion of New Taipei Municipal Chongqing Elementary School Language Contest Phonetics and Characters. 新北市立重慶國小語文競賽字音字形第一名。
 * Fourth Place of Taipei Municipal Chien Kuo High School Language Contest Phonetics and Characters. 臺北市立建國中學語文競賽字音字形第四名。
