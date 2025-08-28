@@ -20,21 +20,7 @@
 
 ## Hello, world!
 
-I'm **Willie169**, also known as **Willie Shen** or **沈威宇**, an 18-year-old senior high school student in Taiwan.
-
-### Experience
-
-* **Chief Programming Officer** of [**PythonIsSlowOrg**](https://github.com/PythonIsSlowOrg), a programming and science club.
-* **Assistant Professor** at the Zhi-Chan School of the [**Chinese Classics Culture Education Association of Taiwan (TACLASSICS)**](https://taclassics.org.tw).
-* **Chief Editor** of the **CSJ Literature Group**.
-* **Champion** of **International Cup National Mathematics Test and Competition** held by **International Math Teaching Association in Taiwan**.
-* **Premium** of **Excellence Cup National Mathematics Competition** held by **Kangxuan Culture and Education**.
-* **Champion** of **Taiwan Stock and Futures Paper Trading Competition** held by **CK Investment and Finance Club**.
-* **Fifth Place** of **Traditional Chinese Phonetics and Characters Competition, Banqiao and Tucheng District, New Taipei City** held by **New Taipei City Government**.
-* **Champion** of **School Traditional Chinese Phonetics and Characters Competition** of **New Taipei Municipal Chongqing Elementary School**.
-* **Fourth Place** of **School Traditional Chinese Phonetics and Characters Competition** of **Taipei Municipal Chien Kuo High School**.
-* **First Place** of grade rank of **New Taipei Municipal Chongqing Junior High School**.
-* **Third Place** of grade rank of **the Second Group of Taipei Municipal Chien Kuo High School**.
+I'm **沈威宇**, also known as **Willie169**, **Willie Shen**, or **Weiyu Shen**, an 18-year-old undergraduate in [**National Taiwan University Department of Electrical Engineering 國立臺灣大學電機工程學系**](https://web.ee.ntu.edu.tw).
 
 ### Languages I Use
 
@@ -42,10 +28,24 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 
 ### Data
 
-<!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=Willie169" alt="GitHub Streak" style=" height: 200;"></a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Willie169's GitHub Stats" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=LICENSES" alt="Willie169's Top Languages" style="width: 100%; height: 200;"></a>
-<!-- <a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snhttps://bsky.app/profile/willie169.bsky.socialake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a> -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=Willie169" alt="GitHub Streak" style=" height: 200;"></a>
+<a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snhttps://bsky.app/profile/willie169.bsky.socialake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a>
+
+### Experience
+
+* Assistant Professor at the Zhonghe Minde Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan (TACLASSICS)](https://taclassics.org.tw). 中華經典文化教育協會中和民德子產班助教。
+* Student of Shizhong Club Zheng's Tai Chi Chuan Course. 時中學社鄭子太極拳課程學員。
+* National Champion of International Cup Mathematics Test and Competition held by International Math Teaching Association in Taiwan. 中華國際數學教育協會舉辦之國際盃數學能力檢測暨競賽全國第一名。
+* Premium of Zhuoyue Cup National Mathematics Competition held by Kang Hsuan Educational Publishing Corp. 康軒文教事業舉辦之卓越盃全國數學競賽特優。
+* Champion of Taiwan Securities and Futures Paper Trading Competition held by CKHS Investment and Finance Club 18th. 建國中學投資理財社第18屆舉辦之臺灣證券及期貨模擬交易比賽第一名.
+* Fifth Place of National Language Contest Phonetics and Characters, Banqiao and Tucheng District, New Taipei City. 新北市板土區全國語文競賽字音字形第五名。
+* Champion of New Taipei Municipal Chongqing Elementary School Language Contest Phonetics and Characters. 新北市立重慶國小語文競賽字音字形第一名。
+* Fourth Place of Taipei Municipal Chien Kuo High School Language Contest Phonetics and Characters. 臺北市立建國中學語文競賽字音字形第四名。
+* First Place of grade rank of New Taipei Municipal Chongqing Junior High School. 新北市立重慶國中年級成績排名第一名。
+* Second Place of grade rank of the Second Group of Taipei Municipal Chien Kuo High School. 臺北市立建國中學第二類組成績排名第二名。
+* Fourteenth Place of grade rank of Taipei Municipal Chien Kuo High School. 臺北市立建國中學年級成績排名第十四名。
 
 ## Featured Projects
 
@@ -67,12 +67,13 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 * [**termux-sh**](https://github.com/Willie169/termux-sh): Scripts for [Termux](https://github.com/termux/termux-app) including setup automation, shortcuts, installations and configurations of development tools and emulation environments such as proot, proot-distro, QEMU system emulation, box64, and more.
 * [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts and instructions for setting up Ubuntu with development and remote control tools, VNC, NVIDIA GPU, Wine, Steam, and more.
 
-### Educational and Research Work
+### Educational, Learning, and Research Work
 
 * [**tw-gifted-k12-notes**](https://github.com/Willie169/tw-gifted-k12-notes): My academic notes on Taiwan's senior high school curriculum subjects and other fields compiled with LaTeX and available in PDF.
 * [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing): A deep learning-based pricing model for Taiwan's 
 stock index, futures, options, and other economic and interest rate data, co-authored with classmates.
 * [**PID**](https://github.com/Willie169/PID): An advanced PID controller designed to regulate the speed of an Arduino auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice.
+* [**Cpp-STL-Learning**](https://github.com/Willie169/Cpp-STL-DSA-Learning): My implementation of STL containers and algorithms following C++20 standard.
 
 ### Format Conversion Tools
 
