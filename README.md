@@ -20,7 +20,7 @@
 
 ## Hello, world!
 
-I'm **沈威宇**, also known as **Willie169**, **Willie Shen**, or **Weiyu Shen**, an 18-year-old undergraduate in [**National Taiwan University Department of Electrical Engineering 國立臺灣大學電機工程學系**](https://web.ee.ntu.edu.tw).
+My name is **Weiyu Shen 沈威宇**, also known as **Willie169** or **Willie Shen**. I graduated from [**Taipei Municipal Chien Kuo High School 臺北市立建國高級中學**](https://www.ck.tp.edu.tw) in 2025 and am currently an 18-year-old undergraduate in [**National Taiwan University Department of Electrical Engineering 國立臺灣大學電機工程學系**](https://web.ee.ntu.edu.tw).
 
 ### Languages I Use
 
@@ -35,16 +35,16 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 
 ### Experience
 
-* Assistant Professor at the Zhonghe Minde Zhi-Chan School of the [Chinese Classics Culture Education Association of Taiwan (TACLASSICS)](https://taclassics.org.tw). 中華經典文化教育協會中和民德子產班助教。
+* Assistant Professor at the Zhonghe Minde Zhi-Chan School of the Taiwan Chinese Classics Culture Education Association (TACLASSICS). 中華經典文化教育協會中和民德子產班助教。
 * Student of Shizhong Club Zheng's Tai Chi Chuan Course. 時中學社鄭子太極拳課程學員。
 * National Champion of International Cup Mathematics Test and Competition held by International Math Teaching Association in Taiwan. 中華國際數學教育協會舉辦之國際盃數學能力檢測暨競賽全國第一名。
 * Premium of Zhuoyue Cup National Mathematics Competition held by Kang Hsuan Educational Publishing Corp. 康軒文教事業舉辦之卓越盃全國數學競賽特優。
-* Champion of Taiwan Securities and Futures Paper Trading Competition held by CKHS Investment and Finance Club 18th. 建國中學投資理財社第18屆舉辦之臺灣證券及期貨模擬交易比賽第一名。
-* Committee Member of CKHS Investment and Finance Club 19th. 建國中學投資理財社第19屆幹部。
 * Fifth Place of National Language Contest Phonetics and Characters, Banqiao and Tucheng District, New Taipei City. 新北市板土區全國語文競賽字音字形第五名。
 * Champion of New Taipei Municipal Chongqing Elementary School Language Contest Phonetics and Characters. 新北市立重慶國小語文競賽字音字形第一名。
-* Fourth Place of Taipei Municipal Chien Kuo High School Language Contest Phonetics and Characters. 臺北市立建國中學語文競賽字音字形第四名。
 * First Place of grade rank of New Taipei Municipal Chongqing Junior High School. 新北市立重慶國中年級成績排名第一名。
+* Fourth Place of Taipei Municipal Chien Kuo High School Language Contest Phonetics and Characters. 臺北市立建國中學語文競賽字音字形第四名。
+* Champion of Taiwan Securities and Futures Paper Trading Competition held by CKHS Investment and Finance Club 18th. 建國中學投資理財社第18屆舉辦之臺灣證券及期貨模擬交易比賽第一名。
+* Committee Member of CKHS Investment and Finance Club 19th. 建國中學投資理財社第19屆幹部。
 * Second Place of grade rank of the Second Group of Taipei Municipal Chien Kuo High School. 臺北市立建國中學第二類組成績排名第二名。
 * Fourteenth Place of grade rank of Taipei Municipal Chien Kuo High School. 臺北市立建國中學年級成績排名第十四名。
 
