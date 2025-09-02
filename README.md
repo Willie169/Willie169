@@ -37,16 +37,17 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 
 * Teaching Assistant at the Zhonghe Minde Zhi-Chan School of the Taiwan Chinese Classics Culture Education Association (TACLASSICS). 中華經典文化教育協會中和民德子產班助教。
 * Student of Shizhong Club Zheng's Tai Chi Chuan Course. 時中學社鄭子太極拳課程學員。
+* Member of the New Taipei City Chongqing Elementary School Choir. 新北市重慶國民小學合唱團成員。
 * National Champion of International Cup Mathematics Test and Competition held by International Math Teaching Association in Taiwan. 中華國際數學教育協會舉辦之國際盃數學能力檢測暨競賽全國第一名。
 * Premium of Zhuoyue Cup National Mathematics Competition held by Kang Hsuan Educational Publishing Corp. 康軒文教事業舉辦之卓越盃全國數學競賽特優。
-* Fifth Place of National Language Contest Phonetics and Characters, Banqiao and Tucheng District, New Taipei City. 新北市板土區全國語文競賽字音字形第五名。
-* Champion of New Taipei Municipal Chongqing Elementary School Language Contest Phonetics and Characters. 新北市立重慶國小語文競賽字音字形第一名。
-* First Place of grade rank of New Taipei Municipal Chongqing Junior High School. 新北市立重慶國中年級成績排名第一名。
+* Fifth Place of National Language Contest Phonetics and Characters, Banqiao and Tucheng District, New Taipei City. 新北市板橋與土城區全國語文競賽字音字形第五名。
+* Champion of New Taipei City Chongqing Elementary School Language Contest Phonetics and Characters. 新北市重慶國民小學語文競賽字音字形第一名。
 * Fourth Place of Taipei Municipal Chien Kuo High School Language Contest Phonetics and Characters. 臺北市立建國中學語文競賽字音字形第四名。
 * Champion of Taiwan Securities and Futures Paper Trading Competition held by CKHS Investment and Finance Club 18th. 建國中學投資理財社第18屆舉辦之臺灣證券及期貨模擬交易比賽第一名。
 * Committee Member of CKHS Investment and Finance Club 19th. 建國中學投資理財社第19屆幹部。
-* Second Place of grade rank of the Second Group of Taipei Municipal Chien Kuo High School. 臺北市立建國中學第二類組成績排名第二名。
-* Fourteenth Place of grade rank of Taipei Municipal Chien Kuo High School. 臺北市立建國中學年級成績排名第十四名。
+* Fourteenth Place of grade GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學年級成績排名第十四名。
+* Second Place in second cluster GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學第二類組成績排名第二名。
+* First Place of class GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學班級成績排名第十四名。
 
 ## Featured Projects
 
@@ -54,9 +55,10 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 
 A tutorial that explores a range of powerful, open-source tools such as [Termux](https://github.com/termux/termux-app), [F-Droid](https://f-droid.org), [Shizuku](https://github.com/RikkaApps/Shizuku), [Tor](https://www.torproject.org), [TrackerControl](https://github.com/TrackerControl/tracker-control-android), [InviZible Pro](https://github.com/Gedsh/InviZible), [QEMU](https://www.qemu.org), [Tailscale](https://github.com/tailscale/tailscale), [OpenSSH](https://www.openssh.com), and [PipePipe](https://github.com/InfinityLoop1308/PipePipe) to enhance your Android device’s functionality, security, privacy, and customization without the need for root access.
 
-* [Repository](https://github.com/Willie169/Android-Non-Root)
-* [Site](https://github.com/Willie169/Android-Non-Root)
-* [App](https://github.com/Willie169/Android-Non-Root-App)
+* **The HTML version**: <https://willie169.github.io/Android-Non-Root>.
+* **The Markdown version**: <https://github.com/Willie169/Android-Non-Root>.
+* **The app version**: <https://github.com/Willie169/Android-Non-Root-App>.
+* **App download link**: <https://github.com/Willie169/Android-Non-Root-App/releases/download/v1.0/com.willie.androidnonroot%5F10.apk>.
 
 ### LaTeX Projects
 
