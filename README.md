@@ -8,7 +8,7 @@
 [![LaTeX-ToolKit](https://img.shields.io/badge/LaTeX--ToolKit-008080)](https://github.com/Willie169/LaTeX-ToolKit)
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
 [![ubuntu-setup-with-vnc-and-gpu](https://img.shields.io/badge/ubuntu--setup--with--vnc--and--gpu-de4815)](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu)
-[![tw-gifted-k12-notes](https://img.shields.io/badge/tw--gifted--k12--notes-b68946)](https://github.com/Willie169/tw-gifted-k12-notes)
+[![willie169-ckhs-ntuee-notes](https://img.shields.io/badge/willie169--ckhs--ntuee--notes-b68946)](https://github.com/Willie169/willie169-ckhs-ntuee-notes)
 [![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
 [![MarkdownToLatexConverter](https://img.shields.io/badge/MarkdownToLatexConverter-008080)](https://github.com/Willie169/MarkdownToLatexConverter)
@@ -20,7 +20,7 @@
 
 ## Hello, world!
 
-My name is **Weiyu Shen 沈威宇**, also known as **Willie169** or **Willie Shen**. I graduated from [**Taipei Municipal Chien Kuo High School 臺北市立建國高級中學**](https://www.ck.tp.edu.tw) in 2025 and am currently an 18-year-old undergraduate in [**National Taiwan University Department of Electrical Engineering 國立臺灣大學電機工程學系**](https://web.ee.ntu.edu.tw).
+My name is **Weiyu Shen 沈威宇**, also known as **Willie169** or **Willie Shen**. I graduated from [**Taipei Municipal Chien Kuo High School (CKHS) 臺北市立建國高級中學**](https://www.ck.tp.edu.tw) in 2025 and am currently an 18-year-old undergraduate in [**National Taiwan University Department of Electrical Engineering (NTUEE) 國立臺灣大學電機工程學系**](https://web.ee.ntu.edu.tw).
 
 ### Languages I Use
 
@@ -35,7 +35,7 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 
 ### Experience
 
-* Assistant Professor at the Zhonghe Minde Zhi-Chan School of the Taiwan Chinese Classics Culture Education Association (TACLASSICS). 中華經典文化教育協會中和民德子產班助教。
+* Teaching Assistant at the Zhonghe Minde Zhi-Chan School of the Taiwan Chinese Classics Culture Education Association (TACLASSICS). 中華經典文化教育協會中和民德子產班助教。
 * Student of Shizhong Club Zheng's Tai Chi Chuan Course. 時中學社鄭子太極拳課程學員。
 * National Champion of International Cup Mathematics Test and Competition held by International Math Teaching Association in Taiwan. 中華國際數學教育協會舉辦之國際盃數學能力檢測暨競賽全國第一名。
 * Premium of Zhuoyue Cup National Mathematics Competition held by Kang Hsuan Educational Publishing Corp. 康軒文教事業舉辦之卓越盃全國數學競賽特優。
@@ -70,7 +70,8 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 
 ### Educational, Learning, and Research Work
 
-* [**tw-gifted-k12-notes**](https://github.com/Willie169/tw-gifted-k12-notes): My academic notes on Taiwan's senior high school curriculum subjects and other fields compiled with LaTeX and available in PDF.
+* [**willie169-ckhs-ntuee-notes**](https://github.com/Willie169/willie169-ckhs-ntuee-notes): My notes that mainly focus on the content that I studied at CKHS and NTUEE but may also contain other fields.
+* [**tw-gifted-k12-notes**](https://github.com/Willie169/tw-gifted-k12-notes): the predecessor of [**willie169-ckhs-ntuee-notes**](https://github.com/Willie169/willie169-ckhs-ntuee-notes), no longer updated and mainly contains the notes I made during my time at CKHS.
 * [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing): A deep learning-based pricing model for Taiwan's 
 stock index, futures, options, and other economic and interest rate data, co-authored with classmates.
 * [**PID**](https://github.com/Willie169/PID): An advanced PID controller designed to regulate the speed of an Arduino auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice.
