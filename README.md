@@ -78,6 +78,8 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 stock index, futures, options, and other economic and interest rate data, co-authored with classmates.
 * [**PID**](https://github.com/Willie169/PID): An advanced PID controller designed to regulate the speed of an Arduino auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice.
 * [**Cpp-STL-Learning**](https://github.com/Willie169/Cpp-STL-DSA-Learning): My implementation of STL containers and algorithms following C++20 standard.
+* [**LeetCode**](https://github.com/Willie169/LeetCode): My LeetCode solutions.
+* [**Codeforces**](https://github.com/Willie169/Codeforces): My  solutions.
 
 ### Format Conversion Tools
 
