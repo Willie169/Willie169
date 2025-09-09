@@ -11,6 +11,9 @@
 [![willie169-ckhs-ntuee-notes](https://img.shields.io/badge/willie169--ckhs--ntuee--notes-b68946)](https://github.com/Willie169/willie169-ckhs-ntuee-notes)
 [![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
+[![Cpp-STL-Learning](https://img.shields.io/badge/Cpp--STL--Learning-00599c)](https://github.com/Willie169/Cpp-STL-DSA-Learning)
+[![LeetCode](https://img.shields.io/badge/LeetCode-f89f1b)](https://github.com/Willie169/LeetCode)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ffc924)](https://github.com/Willie169/Codeforces)
 [![MarkdownToLatexConverter](https://img.shields.io/badge/MarkdownToLatexConverter-008080)](https://github.com/Willie169/MarkdownToLatexConverter)
 [![github-link-converter-downloader](https://img.shields.io/badge/github--link--converter--downloader-0d1218)](https://github.com/Willie169/github-link-converter-downloader)
 [![github-link-converter-downloader-site](https://img.shields.io/badge/github--link--converter--downloader--site-0d1218)](https://Willie169.github.io/github-link-converter-downloader)
@@ -79,7 +82,7 @@ stock index, futures, options, and other economic and interest rate data, co-aut
 * [**PID**](https://github.com/Willie169/PID): An advanced PID controller designed to regulate the speed of an Arduino auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice.
 * [**Cpp-STL-Learning**](https://github.com/Willie169/Cpp-STL-DSA-Learning): My implementation of STL containers and algorithms following C++20 standard.
 * [**LeetCode**](https://github.com/Willie169/LeetCode): My LeetCode solutions.
-* [**Codeforces**](https://github.com/Willie169/Codeforces): My  solutions.
+* [**Codeforces**](https://github.com/Willie169/Codeforces): My Codeforces solutions.
 
 ### Format Conversion Tools
 
