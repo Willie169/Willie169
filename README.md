@@ -8,7 +8,7 @@
 [![LaTeX-ToolKit](https://img.shields.io/badge/LaTeX--ToolKit-008080)](https://github.com/Willie169/LaTeX-ToolKit)
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
 [![ubuntu-setup-with-vnc-and-gpu](https://img.shields.io/badge/ubuntu--setup--with--vnc--and--gpu-de4815)](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu)
-[![switch-firefox-from-snap-to-deb](https://img.shields.io/badge/switch--firefox--from--snap--to--deb-0a497f)](https://github.com/Willie169/switch-firefox-from-snap-to-deb)
+[![switch-firefox-from-snap-to-deb](https://img.shields.io/badge/switch--firefox--from--snap--to--deb-ab35df)](https://github.com/Willie169/switch-firefox-from-snap-to-deb)
 [![willie169-ckhs-ntuee-notes](https://img.shields.io/badge/willie169--ckhs--ntuee--notes-b68946)](https://github.com/Willie169/willie169-ckhs-ntuee-notes)
 [![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
