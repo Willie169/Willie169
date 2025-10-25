@@ -51,7 +51,7 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 * Committee Member of CKHS Investment and Finance Club 19th. 建國中學投資理財社第19屆幹部。
 * Fourteenth Place of grade GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學年級成績排名第十四名。
 * Second Place in second cluster GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學第二類組成績排名第二名。
-* First Place of class GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學班級成績排名第十四名。
+* First Place of class GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學班級成績排名第一名。
 
 ## Featured Projects
 
