@@ -6,10 +6,11 @@
 [![Android-Non-Root-App](https://img.shields.io/badge/Android--Non--Root--App-007acc)](https://github.com/Willie169/Android-Non-Root-App)
 [![physics-patch](https://img.shields.io/badge/physics--patch-008080)](https://github.com/Willie169/physics-patch)
 [![LaTeX-ToolKit](https://img.shields.io/badge/LaTeX--ToolKit-008080)](https://github.com/Willie169/LaTeX-ToolKit)
+[![willie169-ckhs-ntuee-notes](https://img.shields.io/badge/willie169--ckhs--ntuee--notes-b68946)](https://github.com/Willie169/willie169-ckhs-ntuee-notes)
 [![termux-sh](https://img.shields.io/badge/termux--sh-000000)](https://github.com/Willie169/termux-sh)
 [![ubuntu-setup-with-vnc-and-gpu](https://img.shields.io/badge/ubuntu--setup--with--vnc--and--gpu-de4815)](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu)
 [![switch-firefox-from-snap-to-deb](https://img.shields.io/badge/switch--firefox--from--snap--to--deb-ab35df)](https://github.com/Willie169/switch-firefox-from-snap-to-deb)
-[![willie169-ckhs-ntuee-notes](https://img.shields.io/badge/willie169--ckhs--ntuee--notes-b68946)](https://github.com/Willie169/willie169-ckhs-ntuee-notes)
+[![LinuxAndTermuxTips](https://img.shields.io/badge/LinuxAndTermuxTips-000000)](https://github.com/Willie169/LinuxAndTermuxTips)
 [![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
 [![Cpp-STL-Learning](https://img.shields.io/badge/Cpp--STL--Learning-00599c)](https://github.com/Willie169/Cpp-STL-DSA-Learning)
@@ -69,11 +70,12 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 * [**physics-patch**](https://github.com/Willie169/physics-patch): An improved version of the `physics` LaTeX package which refined its design by addressing unintuitive behaviors, extending commands, and introducing additional macros.
 * [**LaTeX-ToolKit**](https://github.com/Willie169/LaTeX-ToolKit): A comprehensive and customizable LaTeX template, some LaTeX tips, and other utilities.
 
-### Termux and Linux Tools
+### Termux and Linux Tools and Instructions
 
 * [**termux-sh**](https://github.com/Willie169/termux-sh): Scripts for [Termux](https://github.com/termux/termux-app) including setup automation, shortcuts, installations and configurations of development tools and emulation environments such as proot, proot-distro, QEMU system emulation, box64, and more.
 * [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts and instructions for setting up Ubuntu derivatives on AMD64 with tools for development, productivity, graphics, remote control, multimedia, communication, and more.
 * [**switch-firefox-from-snap-to-deb**](https://github.com/Willie169/switch-firefox-from-snap-to-deb): Scripts to switch Firefox and Thunderbird from Snap to .deb and fix Fcitx5 not working on Firefox from PPA.
+* [**LinuxAndTermuxTips**](https://github.com/Willie169/LinuxAndTermuxTips): Tips for Linux and Termux.
 
 ### Educational, Learning, and Research Work
 
