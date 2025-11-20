@@ -14,7 +14,7 @@
 [![dual-boot-windows-ubuntu](https://img.shields.io/badge/dual--boot--windows--ubuntu-f5be04)](https://github.com/Willie169/dual-boot-windows-ubuntu)
 [![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
-[![Cpp-STL-Learning](https://img.shields.io/badge/Cpp--STL--Learning-00599c)](https://github.com/Willie169/Cpp-STL-DSA-Learning)
+[![my-standard-template-library](https://img.shields.io/badge/my--standard--template--library-00599c)](https://github.com/Willie169/my-standard-template-library)
 [![LeetCode](https://img.shields.io/badge/LeetCode-f89f1b)](https://github.com/Willie169/LeetCode)
 [![Codeforces](https://img.shields.io/badge/Codeforces-ffc924)](https://github.com/Willie169/Codeforces)
 [![MarkdownToLatexConverter](https://img.shields.io/badge/MarkdownToLatexConverter-008080)](https://github.com/Willie169/MarkdownToLatexConverter)
@@ -86,7 +86,7 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 * [**tw-options-and-futures-analysis-and-rnn-pricing**](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing): A deep learning-based pricing model for Taiwan's 
 stock index, futures, options, and other economic and interest rate data, co-authored with classmates.
 * [**PID**](https://github.com/Willie169/PID): An advanced PID controller designed to regulate the speed of an Arduino auto-following kart with a leader robot with a car simulation, a testing and optimizing framework, and an Arduino practice.
-* [**Cpp-STL-Learning**](https://github.com/Willie169/Cpp-STL-DSA-Learning): My implementation of STL containers and algorithms following C++20 standard.
+* [**my-standard-template-library**](https://github.com/Willie169/standard-template-library): My implementation of Standard Template Library (STL) following C++20 standard under `namespace mystd`.
 * [**LeetCode**](https://github.com/Willie169/LeetCode): My LeetCode solutions.
 * [**Codeforces**](https://github.com/Willie169/Codeforces): My Codeforces solutions.
 * [**SystemVerilog-Learning**](https://github.com/Willie169/SystemVerilog-Learning): My SystemVerilog code.
