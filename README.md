@@ -11,7 +11,7 @@
 [![ubuntu-setup-with-vnc-and-gpu](https://img.shields.io/badge/ubuntu--setup--with--vnc--and--gpu-de4815)](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu)
 [![switch-firefox-from-snap-to-deb](https://img.shields.io/badge/switch--firefox--from--snap--to--deb-ab35df)](https://github.com/Willie169/switch-firefox-from-snap-to-deb)
 [![LinuxAndTermuxTips](https://img.shields.io/badge/LinuxAndTermuxTips-f5be04)](https://github.com/Willie169/LinuxAndTermuxTips)
-[![dual-boot-windows-ubuntu](https://img.shields.io/badge/dual--boot--windows--ubuntu-f5be04)](https://github.com/Willie169/dual-boot-windows-ubuntu)
+[![dual-boot-windows-linux-and-recovery](https://img.shields.io/badge/dual--boot--windows--ubuntu-f5be04)](https://github.com/Willie169/dual-boot-windows-linux-and-recovery)
 [![tw-options-and-futures-analysis-and-rnn-pricing](https://img.shields.io/badge/tw--options--and--futures--analysis--and--rnn--pricing-b68946)](https://github.com/Willie169/tw-options-and-futures-analysis-and-rnn-pricing)
 [![PID](https://img.shields.io/badge/PID-00599c)](https://github.com/Willie169/PID)
 [![my-standard-template-library](https://img.shields.io/badge/my--standard--template--library-00599c)](https://github.com/Willie169/my-standard-template-library)
@@ -54,6 +54,8 @@ Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python,
 * Fourteenth Place of grade GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學年級成績排名第十四名。
 * Second Place in second cluster GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學第二類組成績排名第二名。
 * First Place of class GPA of Taipei Municipal Chien Kuo High School. 臺北市立建國中學班級成績排名第一名。
+* 13 in Chinese, 15 in English, 15 in Natural Sciences, and 15 in Social Studies in 2025 General Scholastic Ability Test (GSAT). 114學科能力測驗（學測）國文13級分、英文15級分、自然15級分、社會15級分。
+* 60 in Mathematics (A), 59 in Chemistry, and 59 in Physics in 2025 Advanced Subjects Test (AST), with combined scores in Mathematics (A), Physics, Chemistry, and English ranked 13th nationwide. 114年分科測驗（分科）數甲60級分、化學59級分、物理59級分，數甲、物理、化學、英文組成成績排名全國第13名。
 
 ## Featured Projects
 
@@ -76,7 +78,7 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 * [**termux-sh**](https://github.com/Willie169/termux-sh): Scripts for [Termux](https://github.com/termux/termux-app) including setup automation, shortcuts, installations and configurations of development tools and emulation environments such as proot, proot-distro, QEMU system emulation, box64, and more.
 * [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts and instructions for setting up Ubuntu derivatives on AMD64 with tools for development, productivity, graphics, remote control, multimedia, communication, and more.
 * [**switch-firefox-from-snap-to-deb**](https://github.com/Willie169/switch-firefox-from-snap-to-deb): Scripts to switch Firefox and Thunderbird from Snap to .deb and fix Fcitx5 not working on Firefox from PPA.
-* [**dual-boot-windows-ubuntu**](https://github.com/Willie169/dual-boot-windows-ubuntu): Instructions to dual-boot Windows and Ubuntu.
+* [**dual-boot-windows-linux-and-recovery**](https://github.com/Willie169/dual-boot-windows-linux-and-recovery): Instructions about dual-booting Windows (assumed Windows 11, may apply to Windows 10 with few changes) and Linux, recovery of Windows and Linux, and related stuff.
 * [**LinuxAndTermuxTips**](https://github.com/Willie169/LinuxAndTermuxTips): Tips for Linux and Termux.
 
 ### Educational, Learning, and Research Work
