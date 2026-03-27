@@ -30,6 +30,7 @@ My name is **Weiyu Shen 沈威宇**, also known as **Willie169** or **Willie She
 
 <ul>
 <li>Mastodon: <a href="https://mastodon.social/@willie_shen" rel="me">https://mastodon.social/@willie_shen</a></li>
+<li>Matrix: <a href="https://matrix.org">@willie169:matrix.org</a></li>
 </ul>
 
 ### Languages I Use
