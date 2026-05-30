@@ -119,7 +119,7 @@ stock index, futures, options, and other economic and interest rate data, co-aut
 
 ## Blogroll
 
-- [Ivon’s blog / Ivon的部落格 / ivonblog.com](https://ivonblog.com): <q>This is a place for sharing the information of Free and Open source software, technologies, and researches of liberal arts. Here you will see many practical tips on using free software, and various possibilities for applying it in life. 這裡是分享GNU/Linux情報、自由開源軟體、電腦手機資訊、人文思辨的所在。在這裡你會看到許多自由軟體的實際操作心得，以及將其運用在生活中的各種可能性。<q>
+- [Ivon’s blog / Ivon的部落格 / ivonblog.com](https://ivonblog.com): <q>This is a place for sharing the information of Free and Open source software, technologies, and researches of liberal arts. Here you will see many practical tips on using free software, and various possibilities for applying it in life. 這裡是分享GNU/Linux情報、自由開源軟體、電腦手機資訊、人文思辨的所在。在這裡你會看到許多自由軟體的實際操作心得，以及將其運用在生活中的各種可能性。</q>
 
 ## Donation
 
