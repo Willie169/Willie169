@@ -1,4 +1,4 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)](https://github.com/Willie169)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=Willie169&color=brightgreen&label=Profile+Views&abbreviated=true)](https://github.com/Willie169) -->
 [![PythonIsSlowOrg](https://img.shields.io/badge/PythonIsSlowOrg-654520)](https://github.com/PythonIsSlowOrg)
 [![Willie169.github.io](https://img.shields.io/badge/Willie169.github.io-654520)](https://Willie169.github.io)
 [![Android-Non-Root-Markdown](https://img.shields.io/badge/Android--Non--Root--Markdown-007acc)](https://github.com/Willie169/Android-Non-Root)
@@ -37,12 +37,12 @@ My name is **Weiyu Shen 沈威宇**, also known as **Willie169** or **Willie She
 
 Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python, JavaScript, Java, Shell, HTML.
 
-### Data
+<!-- ### Data
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Willie169&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Willie169's GitHub Stats" style=" height: 200;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie169&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=LICENSES" alt="Willie169's Top Languages" style="width: 100%; height: 200;"></a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=Willie169" alt="GitHub Streak" style=" height: 200;"></a>
-<a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snhttps://bsky.app/profile/willie169.bsky.socialake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a>
+<a><img src="https://raw.githubusercontent.com/Willie169/Willie169/output/github-contribution-grid-snhttps://bsky.app/profile/willie169.bsky.socialake.svg" alt="github contribution grid snake animation" style=" height: 200;"></a> -->
 
 ### Experience
 
@@ -116,6 +116,10 @@ stock index, futures, options, and other economic and interest rate data, co-aut
 
 * **Academics**: Computer science, information engineering, electrical engineering, physics, mathematics, finance, economics, literature.
 * **Recreation**: [webDiplomacy](https://github.com/kestasjk/webDiplomacy), Chinese chess (Xiangqi), Western chess, watching anime, reading, writing, coding, and paper trading.
+
+## Blogroll
+
+- [Ivon’s blog / Ivon的部落格 / ivonblog.com](https://ivonblog.com): <q>This is a place for sharing the information of Free and Open source software, technologies, and researches of liberal arts. Here you will see many practical tips on using free software, and various possibilities for applying it in life. 這裡是分享GNU/Linux情報、自由開源軟體、電腦手機資訊、人文思辨的所在。在這裡你會看到許多自由軟體的實際操作心得，以及將其運用在生活中的各種可能性。<q>
 
 ## Donation
 
