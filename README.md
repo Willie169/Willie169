@@ -28,12 +28,10 @@
 
 My name is **Weiyu Shen 沈威宇**, also known as **Willie169** or **Willie Shen**. I graduated from [**Taipei Municipal Chien Kuo High School (CKHS) 臺北市立建國高級中學**](https://www.ck.tp.edu.tw) in 2025 and am currently an 19-year-old undergraduate in [**National Taiwan University Department of Electrical Engineering (NTUEE) 國立臺灣大學電機工程學系**](https://web.ee.ntu.edu.tw).
 
-<ul>
-<li>GitHub: <a href="https://github.com/Willie169">Willie169</a></li>
-<li>GitLab: <a href="https://gitlab.com/Willie169">Willie169</a></li>
-<li>Mastodon: <a href="https://mastodon.social/@willie_shen" rel="me">@willie_shen@mastodon.social</a></li>
-<li>Matrix: <a href="https://matrix.to/@willie169:matrix.org#/@willie169:matrix.org">@willie169:matrix.org</a></li>
-</ul>
+* GitHub: [Willie169](https://github.com/Willie169)
+* GitLab: [Willie169](https://gitlab.com/Willie169)
+* Mastodon: [@willie\_shen@mastodon.social](https://mastodon.social/@willie_shen)
+* Matrix: [@willie169:matrix.org](https://matrix.to/@willie169:matrix.org#/@willie169:matrix.org)
 
 ### Languages I Use
 
